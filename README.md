@@ -1,7 +1,7 @@
 Date of Report: September 30, 2025  
 Project Overview-
 
-This repository contains the institutional-grade equity research initiation report and valuation architecture for Delhivery Ltd., prepared for the annual CFA Institute Research Challenge. 
+This repository contains the institutional - grade equity research initiation report and valuation architecture for Delhivery Ltd., prepared for the annual CFA Institute Research Challenge. 
 Delhivery operates as a fully integrated, technology-driven logistics provider in India across Express Parcel, Part-Truckload, Full-Truckload, Supply Chain Services, and Cross-Border logistics. 
 Following deep financial forensics, macroeconomic mapping, and evaluation of corporate governance frameworks, our team initiated a high-conviction SELL recommendation on the stock.  
 
